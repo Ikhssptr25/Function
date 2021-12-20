@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//deklarasi 
+//deklarasi variabel
 bool valid_triangle(int i,int k,int h);
 
 int main(){
