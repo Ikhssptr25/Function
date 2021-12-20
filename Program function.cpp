@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-float perpangkatan(float a,float b);
+float perpangkatan(double a,double b);
 int main(){
 	cout<<perpangkatan(2,3);
 	
